@@ -11,7 +11,7 @@ Currently, I am working on building AI-powered tools and robust backend applicat
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ Currently, I am working on building AI-powered tools and robust backend applicat
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 *   **[APCRE – AI Powered Code Review Engine](https://github.com/ammar-haider777)** (Final Year Project)
     *   *Role*: Backend Engineer
@@ -50,14 +50,14 @@ Currently, I am working on building AI-powered tools and robust backend applicat
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 *   **Batch Topper** in F.Sc (Pre-Engineering) at Uswa College Islamabad (1077/1100).
 *   **Top 12% National Percentile (88.1%)** in the National Skill Competency Test (NSCT), HEC Pakistan.
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ammar-haider777&show_icons=true&theme=radial&hide_border=true" alt="Ammar's GitHub Stats" height="180" />
