@@ -13,8 +13,8 @@
 <div align="center">
 
 [![UET Taxila](https://img.shields.io/badge/🎓_UET_Taxila-Software_Engineering-4F46E5?style=for-the-badge)](https://www.uettaxila.edu.pk/)
-[![Backend & ML](https://img.shields.io/badge/🎯_Focus-Backend_+_Machine_Learning-6366F1?style=for-the-badge)](#)
-[![Pakistan](https://img.shields.io/badge/📍_Location-Pakistan-01411C?style=for-the-badge)](https://www.google.com/maps/place/Pakistan)
+[![Backend & ML](https://img.shields.io/badge/_Focus-Backend_+_Machine_Learning-6366F1?style=for-the-badge)](#)
+[![Pakistan](https://img.shields.io/badge/_Location-Pakistan-01411C?style=for-the-badge)](https://www.google.com/maps/place/Pakistan)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-### 🌟 Bridging Backend Systems & Intelligent Machine Learning 🌟
+###  Bridging Backend Systems & Intelligent Machine Learning 
 *Building automated, data-driven, and high-performance AI-assisted software applications*
 
 </div>
@@ -41,35 +41,35 @@
 
 <br>
 
-## 👨‍💻 About Me
+##  About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-🚀 *Software Engineer* | *Backend Architect* | *Future ML Engineer*
+ *Software Engineer* | *Backend Architect* | *Future ML Engineer*
 
 Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* (CGPA: **3.49/4.00**, expected 2026), specializing in:
 
-🤖  Machine Learning & Intelligent Systems  
-⚙️  Robust Backend Frameworks (Node.js, Express)  
-🗄️  Advanced Database Design & Relational Modeling (Oracle SQL)  
-🧩  AI-Powered Software Tools & Code Engines  
-⚡  Performant Code Optimization & Quality Assurance  
+  Machine Learning & Intelligent Systems  
+  Robust Backend Frameworks (Node.js, Express)  
+  Advanced Database Design & Relational Modeling (Oracle SQL)  
+  AI-Powered Software Tools & Code Engines  
+  Performant Code Optimization & Quality Assurance  
 
 <br>
 
-*🎯 Mission:* To architect clean, performant, and self-optimizing backend software integrated with machine learning models that solve complex real-world data problems.
+* Mission:* To architect clean, performant, and self-optimizing backend software integrated with machine learning models that solve complex real-world data problems.
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Core Expertise
+##  Core Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 Machine Learning & AI</h3>
+<h3 align="center"> Machine Learning & AI</h3>
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* (CGPA: **3.
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">⚙️ Software & Backend Engineering</h3>
+<h3 align="center"> Software & Backend Engineering</h3>
 
 <div align="center">
 
@@ -125,11 +125,11 @@ Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* (CGPA: **3.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🏆 *AI & Database-Driven Applications*
+###  *AI & Database-Driven Applications*
 
 </div>
 
@@ -137,7 +137,7 @@ Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* (CGPA: **3.
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔍 APCRE (Final Year Project)</h3>
+<h3 align="center"> APCRE (Final Year Project)</h3>
 
 <div align="center">
 
@@ -152,16 +152,16 @@ Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* (CGPA: **3.
 Contributed as a **Backend Engineer** to develop an automated code analysis engine for Python source code review.
 
 *Key Achievements:*
-- ✅ Developed logic for automated bug detection & workflow generation.
-- ✅ Designed system components that generate detailed reviewer feedback.
-- ✅ Structured system integration pipelines between AI modules and backend services.
+-  Developed logic for automated bug detection & workflow generation.
+-  Designed system components that generate detailed reviewer feedback.
+-  Structured system integration pipelines between AI modules and backend services.
 
 *Tech:* Python, AI Models, System Workflows, Git
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🏫 School Management System</h3>
+<h3 align="center"> School Management System</h3>
 
 <div align="center">
 
@@ -176,9 +176,9 @@ Contributed as a **Backend Engineer** to develop an automated code analysis engi
 Engineered the database schema and application code for a robust management platform.
 
 *Key Achievements:*
-- ✅ Designed normalized Oracle schema avoiding redunancies.
-- ✅ Implemented relational tables, referential integrity constraints, and SQL logic.
-- ✅ Connected schema to a modular JavaFX frontend via JDBC for real-time operations.
+-  Designed normalized Oracle schema avoiding redunancies.
+-  Implemented relational tables, referential integrity constraints, and SQL logic.
+-  Connected schema to a modular JavaFX frontend via JDBC for real-time operations.
 
 *Tech:* Java, JavaFX, JDBC, Oracle Database, SQL
 
@@ -186,11 +186,11 @@ Engineered the database schema and application code for a robust management plat
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages & Backend
+###  Programming Languages & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -199,13 +199,13 @@ Engineered the database schema and application code for a robust management plat
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🗄️ Database Management Systems
+###  Database Management Systems
 
 ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Developer Tools & Platforms
+###  Developer Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -214,7 +214,7 @@ Engineered the database schema and application code for a robust management plat
 
 </div>
 
-## 🎓 Education & Achievements
+##  Education & Achievements
 
 <table>
 <tr>
@@ -225,13 +225,13 @@ Engineered the database schema and application code for a robust management plat
 </td>
 <td width="70%" valign="top">
 
-### 🎓 BS in Software Engineering
+###  BS in Software Engineering
 *University of Engineering & Technology (UET) Taxila, Pakistan*  
 **Expected Graduation: 2026** | **Current CGPA: 3.49 / 4.00**
 
 ---
 
-### 🏆 Key Academic & National Milestones
+###  Key Academic & National Milestones
 * **Batch Topper** | F.Sc (Pre-Engineering) at Uswa College Islamabad (1077 / 1100).
 * **Top 12% National Percentile (88.1%)** | HEC Pakistan National Skill Competency Test (NSCT).
 * **Matriculation Scholar** | Uswa College Islamabad (1048 / 1100).
@@ -240,7 +240,7 @@ Engineered the database schema and application code for a robust management plat
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -253,7 +253,7 @@ Engineered the database schema and application code for a robust management plat
 
 </div>
 
-## 🎯 Career Roadmap (AI & ML Focus)
+##  Career Roadmap (AI & ML Focus)
 
 <div align="center">
 
@@ -266,7 +266,7 @@ timeline
     2025 : FYP APCRE AI-Powered Code Review Backend
          : Core ML & Python Libraries (NumPy, Pandas, Scikit-learn)
          : Model Training & Evaluation Basics
-    2026 : UET Taxila Graduation (CGPA Target 3.50+)
+    2026 : UET Taxila Graduation 
          : Junior ML Engineer or Python Backend Role
          : Deep Learning Frameworks (PyTorch / TensorFlow)
     2027+ : Production-Grade MLOps Pipelines
@@ -282,42 +282,42 @@ timeline
 <tr>
 <td width="33%" valign="top">
 
-### 📍 Current Focus
-* ✅ Python Backend & AI Workflows  
-* ✅ Machine Learning Foundations  
-* ✅ Finalizing FYP Code Reviews  
-* ✅ Relational Schema Engineering  
-* ✅ Academic Excellence (CGPA 3.49)  
+###  Current Focus
+*  Python Backend & AI Workflows  
+*  Machine Learning Foundations  
+*  Finalizing FYP Code Reviews  
+*  Relational Schema Engineering  
+*  Academic Excellence (CGPA 3.49)  
 
 </td>
 <td width="33%" valign="top">
 
-### 🚀 2025 Goals
-* 🎯 Mastering Python Data Libraries  
-* 🎯 Developing Custom ML Models  
-* 🎯 Integrating AI APIs into Backends  
-* 🎯 Open Source Git Collaborations  
-* 🎯 Building high-speed APIs  
+###  2025 Goals
+*  Mastering Python Data Libraries  
+*  Developing Custom ML Models  
+*  Integrating AI APIs into Backends  
+*  Open Source Git Collaborations  
+*  Building high-speed APIs  
 
 </td>
 <td width="33%" valign="top">
 
-### 🌟 Long-Term Vision
-* 💫 MLOps Systems Engineer  
-* 💫 Deep Learning Architect  
-* 💫 Robust AI-assisted Platforms  
-* 💫 Graduate Studies in Data Science  
-* 💫 Tech Leadership in AI Systems  
+###  Long-Term Vision
+*  MLOps Systems Engineer  
+*  Deep Learning Architect  
+*  Robust AI-assisted Platforms  
+*  Graduate Studies in Data Science  
+*  Tech Leadership in AI Systems  
 
 </td>
 </tr>
 </table>
 
-## 🤝 Open for Collaboration
+##  Open for Collaboration
 
 <div align="center">
 
-### 🌟 Let's Build Something Intelligent Together! 🌟
+###  Let's Build Something Intelligent Together! 
 
 I am looking to collaborate on:
 
@@ -359,11 +359,11 @@ Algorithmic Bug Reviews
 </tr>
 </table>
 
-*📬 Have an interesting project idea or want to talk Machine Learning? Get in touch!*
+* Have an interesting project idea or want to talk Machine Learning? Get in touch!*
 
 </div>
 
-## 📞 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
