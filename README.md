@@ -47,7 +47,7 @@
 
  *Software Engineer* | *Backend Architect* | *Future ML Engineer*
 
-Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* (CGPA: **3.49/4.00**, expected 2026), specializing in:
+Currently pursuing a *B.Sc. in Software Engineering* at *UET Taxila* ( expected 2026), specializing in:
 
   Machine Learning & Intelligent Systems  
   Robust Backend Frameworks (Node.js, Express)  
@@ -227,7 +227,7 @@ Engineered the database schema and application code for a robust management plat
 
 ###  BS in Software Engineering
 *University of Engineering & Technology (UET) Taxila, Pakistan*  
-**Expected Graduation: 2026** | **Current CGPA: 3.49 / 4.00**
+**Expected Graduation: 2026** 
 
 ---
 
@@ -287,7 +287,7 @@ timeline
 *  Machine Learning Foundations  
 *  Finalizing FYP Code Reviews  
 *  Relational Schema Engineering  
-*  Academic Excellence (CGPA 3.49)  
+*  Academic Excellence  
 
 </td>
 <td width="33%" valign="top">
